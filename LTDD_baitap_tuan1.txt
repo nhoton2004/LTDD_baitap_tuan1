@@ -1,0 +1,8 @@
+câu 1: Mong muốn và định hướng của Bạn là gì sau khi học xong môn học?
+	- sau môn học, em rất mong muốn có thể tự mình xây được một ứng dụng cơ bản hoàn chính. Em cũng muốn nắm vững kiến thức về flutter để làm nền tảng phát triển sau này.
+	Em mong muốn là qua môn học này em sẽ rèn luyện được kỹ năng làm việc nhóm, quản lý mã nguồn với Git và github và cách trình bày một sản phẩm hoàn chình là như thế nào.
+
+câu 2: Theo bạn, trong tương lai gần (10 năm) lập trình di động có phát triển không? Giải thích tại sao?
+	- Có, em nghĩ rất phát triển. Vì số người thiết bị thông minh như là đồng hồ thông minh, điện thoại thông minh... ngày càng tăng chứ không có giảm. đây là một mảnh đất màu mở cho các ứng dụng di động.
+	- Hầu hết các doanh nghiệp từ lớn đến nhỏ đều cần ứng dụng di động để tiếp cận khách hàng , bán hàng, nhà cung cấp.
+	- các nền tảng lập trình ngày các phát triển, AI, các công nghệ lập trình đa nền tảng như Flutter, react Native ngày càng mạnh mẽ, giúp tạo ứng dụng nhanh hơn, tiết kiệm chi phí và thúc đẩy ngành phát triển mạnh mẽ hơn.
